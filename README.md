@@ -1,15 +1,4 @@
-# Technical_Analysis
-# Machine Learning
-# Multi Linear Regression
-# Ridge Regression
-# Lasso Regression
-# Decision Tree Regression
-# Bagging Regression
-# Gradient Boost Regression
-# Random Forest Regression
-# Support Vector Regression
-# Nifty Index
-# Feature Selection
+# Technical_Analysis of Capital Market (Nifty) using Machine Learning
 
 Contained within this repository is the Python implementation of technical analysis on the Nifty Index, utilizing various machine learning algorithms, both with and without feature selection.
 1. Multi Linear Regression
